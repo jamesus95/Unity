@@ -1,0 +1,27 @@
+>>> Tutorial Standard # begin tutorial dialogue
+15 Normal KingPrehistoric Left       --- Welcome to my cave.  Click the stalagmites to select them, and a location in the cave to send units there.
+15 Normal KingPrehistoric Left       --- If you click the 'X' on the ground your units will ignore enemies and go to that point.
+15 Normal Caveman Right   --- Hit 'Escape' to pause the game.
+15 Normal Caveman Right   --- The white tower can heal your other towers if they become damaged.  Be careful though, the heal tower cannot heal itself.
+<<< Tutorial # end tutorial dialogue
+
+>>> Pause Realtime # played when the game is paused
+100 Nervous KingPrehistoric    Left    --- Why isn't anyone moving? It's so quiet...
+<<< Pause
+
+>>> GameLost Realtime # played when the user loses a level
+10  Dying   KingPrehistoric    Left    --- Next time DON'T LET ME DIE!!!
+<<< GameLost
+
+>>> GameWon Realtime # played when the user wins a level
+10 Happy   KingPrehistoric    Left    --- Finally! Victory is ours.  The Uprising is defeated.
+20 Normal  Saemus  Right   --- Now that they're gone, how about some nice tower upgrades?
+<<< GameWon
+
+>>> KingDamaged Warning
+10 Angry KingPrehistoric Left        --- Help! Help! I'm being oppressed!
+<<< KingDamaged
+
+>>> KingInjured Warning
+10 Nervous KingPrehistoric Left      --- Guards, where are you? I'M DYING, and I can't get up...
+<<< KingInjured

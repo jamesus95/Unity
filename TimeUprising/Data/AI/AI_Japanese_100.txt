@@ -1,0 +1,62 @@
+#############################################################################
+# Empty lines and lines starting with # are ignored
+#############################################################################
+# Enemy waves begin with "@EnemyWave" followed by the default duration of the 
+# enemy wave. "ENDWAVES" is used to mark the end of the file.
+# ex. "@EnemyWave 10" initializes an enemy wave that will last for 10 seconds
+# If all of the squads in an enemy wave are killed before the duration finishes, the next
+# wave will spawn in approximately 5 seconds.
+#############################################################################
+# Squad Spawning Format
+# <Time> <Size> <Type> <Behavior> <Spawn point>,<Waypoint1>,<Waypoint2>,etc.
+#
+# Time - number of seconds after the wave starts that this squad is spawned
+# Size - enum value that represents the number of units spawned
+# Type - enum value that represents the unit type of the squad leader
+# Behavior - (Not Implemented) enum value that represents the type of 
+#             behavior the squad exhibits
+# spawn point - enum value that represents where the unit spawns
+# Waypoints - waypoints that the squad visits before attacking the king
+
+# ex. 0 Medium Elite AttackMove SpawnLeft,Center,TopRight
+#     Spawns immediately after the wave begins
+#     Contains 4 units
+#     the squad leader is an Elite (raptor)
+#     default attack move behavior
+#     spawns at the SpawnLeft waypoint
+#     moves towards the Center waypoint, then the TopRight waypoint
+#     all squads have a final waypoint to attack the King
+#############################################################################
+# enum Size
+#   Single, Small, Medium, Large
+#   1       2      4       7
+#############################################################################
+# enum Type
+#   Default, Melee, Ranged, Special, Elite
+#############################################################################
+# enum Waypoints
+#    BottomLeft
+#    BottomRight
+#    TopLeft
+#    TopRight
+#    Center
+#    CenterLeft
+#    CenterRight
+#    SpawnLeft
+#    SpawnCenter
+#    SpawnRight
+#############################################################################
+
+@EnemyWave 2  # enemy wave 1
+0 Medium Elite AttackMove SpawnLeft,Center,TopRight
+
+@EnemyWave 2  # enemy wave 2
+0 Medium Special AttackMove SpawnLeft,Center,TopRight
+
+@EnemyWave 2  # enemy wave 3
+0 Medium Melee AttackMove SpawnRight,Center,TopRight
+
+@EnemyWave 2  # enemy wave 4
+0 Medium Ranged AttackMove SpawnRight,Center,TopRight
+
+ENDWAVES # used to mark the end of the file

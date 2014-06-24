@@ -1,0 +1,42 @@
+@EnemyWave 15
+0 Single     Default AttackMove SpawnCenter,TopRight
+1 Small      Default AttackMove SpawnCenter,
+3 Small      Default AttackMove SpawnCenter,TopRight
+5 Small      Default AttackMove SpawnCenter,CenterRight,TopLeft
+
+@EnemyWave 15
+0 Medium      Default AttackMove SpawnCenter,
+0 Medium      Default AttackMove SpawnCenter,
+0 Single      Default AttackMove SpawnCenter,BottomLeft,TopLeft
+1 Small       Melee AttackMove SpawnCenter,BottomLeft,TopLeft
+1 Small       Melee AttackMove SpawnCenter,BottomLeft,TopLeft
+2 Medium      Default AttackMove SpawnCenter,Center,TopRight
+6 Medium      Ranged AttackMove SpawnCenter,TopLeft
+
+@EnemyWave 20
+0 Large      Elite AttackMove SpawnCenter,BottomRight
+
+@EnemyWave 15
+0 Single   Default AttackMove SpawnCenter,BottomLeft
+2 Small    Default AttackMove SpawnCenter,BottomRight,TopRight
+4 Small    Melee AttackMove SpawnCenter,BottomLeft,BottomRight,TopRight
+6 Medium   Ranged AttackMove SpawnCenter,BottomLeft,BottomRight,TopRight
+
+@EnemyWave 15
+0 Small    Default AttackMove SpawnCenter,King
+3 Small    Default AttackMove SpawnCenter,BottomLeft
+5 Medium    Elite AttackMove SpawnCenter,BottomRight
+6 Small     Ranged AttackMove SpawnCenter,BottomRight
+
+@EnemyWave 35
+0 Small    Default AttackMove SpawnCenter,BottomLeft
+1 Small    Default AttackMove SpawnCenter,CenterRight,TopRight
+4 Medium    Default AttackMove SpawnCenter,BottomLeft
+6 Medium    Default AttackMove SpawnCenter,
+7 Single    Melee AttackMove SpawnCenter,
+7 Single    Melee AttackMove SpawnCenter,
+8 Single    Melee AttackMove SpawnCenter,
+8 Single    Melee AttackMove SpawnCenter,
+9 Single    Ranged AttackMove SpawnCenter,
+9 Single    Ranged AttackMove SpawnCenter,
+10 Single   Ranged AttackMove SpawnCenter,

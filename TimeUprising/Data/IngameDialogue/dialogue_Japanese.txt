@@ -1,0 +1,26 @@
+>>> Tutorial Standard # begin tutorial dialogue
+15 Normal King Left       --- The Bomb tower can take out large groups of units. Use it wisely, though, it has a very long cooldown!
+15 Normal King Left       --- You can increase the size of your squads by spending gold in the tower store.
+15 Normal Swordsman Right   --- The tower in the center of the map provides random equipment for the enemy peasants.
+<<< Tutorial # end tutorial dialogue
+
+>>> Pause Realtime # played when the game is paused
+100 Nervous King    Left    --- Why isn't anyone moving? It's so quiet...
+<<< Pause
+
+>>> GameLost Realtime # played when the user loses a level
+10  Dying   King    Left    --- Next time DON'T LET ME DIE!!!
+<<< GameLost
+
+>>> GameWon Realtime # played when the user wins a level
+10 Happy   King    Left    --- Finally! Victory is ours.  The Uprising is defeated.
+20 Normal  Saemus  Right   --- Now that they're gone, how about some nice tower upgrades?
+<<< GameWon
+
+>>> KingDamaged Warning
+10 Angry King Left        --- Help! Help! I'm being oppressed!
+<<< KingDamaged
+
+>>> KingInjured Warning
+10 Nervous King Left      --- Guards, where are you? I'M DYING, and I can't get up...
+<<< KingInjured

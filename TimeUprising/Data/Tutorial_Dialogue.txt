@@ -1,0 +1,12 @@
+This is your user interface.
+As enemies enter from the bottom of the gameplay area, you must keep Rodelle alive throughout the siege. His health is displayed at all times above his head and on the control panel.
+In the gameplay area, left-click on the spawn structure to select which troop type you would like to deploy. you can also select your towers using the number keys.
+When a spawn structure is selected, left-click again to place a basic marker for all troops of the respective type. Troops heading towards basic markers will attack enemies along the way.
+Left-clicking on a placed basic marker will turn it into a command marker for all troops of the respective type. Troops heading towards command markers will ignore enemies along the way.
+Left-clicking on a single troop will select its squad. Left-click once to deploy the squad. Double-clicking with the 
+Left-clicking on a single troop will select its squad. Left-click once to deploy the squad, and double-click to force command them to the target destination.
+If either Rodelle or a spawn structure are damaged, select on the heal structure and click on the entity you wish to heal.  THere is a wait time between each heal, though, so monitor the cooldown bar closely!
+Also, keep watch of the dialogue box for helpful notifications from Rodelle and the troops.
+Enemies can take over a spawn structure by reducing its health to zero.  The, you lose some control of the respective troops, and the enemies are able to upgrade their attacks with weapons.  Reclaim the structure by attacking it!
+Defeating enemies will level up your troops and give you fold for purchasing structure upgrades later.  The more you use a certain troop type, the faster it levels up!  Completing levels unlocks new structures for troops and abilities.
+The wave counter shows how many groups of enemies will be entering the map.  When it reaches zero, and all enemies are eliminated, you win the battle! Don’t worry if Rodelle dies. You can always replay an easier level to earn more gold and upgrade your towers.

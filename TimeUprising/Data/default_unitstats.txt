@@ -1,0 +1,7 @@
+# UnitType Health   MovementSpeed   ChargeSpeed Sight Gold
+Archer     50       10              10          35    15
+Swordsman  150      12              13          35    15
+Mage       40       06              08          35    15
+Peasant    65       10              10          8     5
+King       5000     00              00          00    0
+Elite      700      13              15          10    75

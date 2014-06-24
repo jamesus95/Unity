@@ -1,0 +1,20 @@
+Swordsman            Prehistoric              10     0
+Archer               Prehistoric              10     0
+Mage                 Prehistoric              10     0
+
+Swordsman            Medieval                 7     0
+Archer               Medieval                 7     0
+Mage                 Medieval                 7     0
+
+Swordsman            Japanese                 5     0
+Archer               Japanese                 5     0
+Mage                 Japanese                 5     0
+
+Swordsman            ModernAmerica            3     0
+Archer               ModernAmerica            3     0
+Mage                 ModernAmerica            3     0
+
+Swordsman            Future                   1     0
+Archer               Future                   1     0
+Mage                 Future                   1     0
+

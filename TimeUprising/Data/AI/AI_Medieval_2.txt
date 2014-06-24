@@ -1,0 +1,48 @@
+@EnemyWave 5 # 5 second pause to allow users to prepare
+@EnemyWave 30
+0 Single      Default AttackMove SpawnLeft,BottomLeft
+1 Large       Default AttackMove SpawnLeft,TopLeft
+3 Medium      Default AttackMove SpawnLeft,TopRight
+5 Medium      Melee AttackMove SpawnLeft,CenterRight,TopLeft
+10 Medium     Default AttackMove SpawnLeft,
+
+1 Medium      Melee AttackMove SpawnRight,TopRight
+2 Large       Default AttackMove SpawnRight,BottomLeft
+3 Medium      Melee AttackMove SpawnRight,Center,TopRight
+6 Medium      Default AttackMove SpawnRight,CenterRight,TopLeft
+8 Large       Melee AttackMove SpawnRight,Center
+
+
+@EnemyWave 20
+0 Large      Special AttackMove SpawnLeft,BottomLeft
+0 Large      Ranged AttackMove SpawnRight,TopRight
+
+@EnemyWave 35
+0 Medium      Default AttackMove SpawnLeft,
+0 Medium      Default AttackMove SpawnLeft,
+1 Large       Ranged  AttackMove SpawnLeft,BottomLeft,TopLeft
+2 Medium      Melee AttackMove SpawnLeft,Center,TopRight
+5 Medium      Ranged AttackMove SpawnLeft,TopLeft
+
+1 Small       Melee   AttackMove SpawnRight,BottomLeft,TopRight
+2 Small       Elite   AttackMove SpawnRight,TopRight,BottomRight
+5 Medium      Elite   AttackMove SpawnRight,BottomLeft,BottomRight
+
+@EnemyWave 35
+0 Medium      Special AttackMove SpawnLeft,TopLeft
+8 Large       Default AttackMove SpawnLeft,BottomLeft,Center
+
+0 Large       Melee AttackMove SpawnRight,Center,
+1 Medium      Ranged AttackMove SpawnRight,TopRight,BottomRight
+2 Medium      Ranged AttackMove SpawnRight,BottomLeft
+3 Medium      Elite AttackMove SpawnRight,Center,King
+4 Medium      Default AttackMove SpawnRight,BottomLeft
+5 Medium      Default AttackMove SpawnRight,BottomLeft,BottomRight,TopRight
+6 Large       Special AttackMove SpawnRight,
+7 Large       Default AttackMove SpawnRight,TopRight,
+
+@EnemyWave 10
+0 Large    Elite AttackMove SpawnLeft,BottomLeft
+2 Large    Elite AttackMove SpawnLeft,CenterRight,TopRight
+6 Medium   Special AttackMove SpawnLeft,TopLeft
+7 Small    Default AttackMove SpawnLeft,

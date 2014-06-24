@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: eebe6ab3bd5fc6e45b8f5b32cf664a83
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: UnitSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_2
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_4
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_6
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_7
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_8
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_9
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_10
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_11
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_12
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_13
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 1245
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_16
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_17
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_18
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_19
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_20
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_21
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 830
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_24
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_25
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_26
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_27
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_28
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_29
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 415
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_32
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_33
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_34
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_35
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_36
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_37
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_38
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_39
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_40
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_41
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_42
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: UnitSprites_43
+      rect:
+        serializedVersion: 2
+        x: 5395
+        y: 0
+        width: 415
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

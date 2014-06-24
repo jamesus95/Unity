@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: cd55dd550c86fa94abf5d188361b58e3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: PrehistoricUnitSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 1460
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 1095
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 730
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 365
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 5665
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PrehistoricUnitSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 6695
+        y: 0
+        width: 515
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 8347e5b3f5df1f749b212270235d32cd
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: TowerStoreArrowButtons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 439
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 439
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 439
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 351
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 351
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 351
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 263
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 263
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 263
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 175
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 175
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 175
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 87
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 87
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 87
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: TowerStoreArrowButtons_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
